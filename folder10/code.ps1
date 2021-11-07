@@ -1,0 +1,1 @@
+Get-Process | Select-Object processname, id | Sort-Object id -Descending
